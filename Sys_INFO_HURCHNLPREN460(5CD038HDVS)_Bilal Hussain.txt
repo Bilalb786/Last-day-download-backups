@@ -1,0 +1,27 @@
+Name        :Bilal Hussain(New Joiner)
+
+
+Asst_ID     :HURCHNLPREN460
+
+
+
+Sl_no       :5CD038HDVS
+
+Mac Addrs   :LAN:F8-0D-AC-17-86-3C
+             WAN:A4-B1-C1-9E-C5-DC
+
+Sys_Info    :HP-440 G7
+             HDD-512GB
+             RAM-16GB
+             Processor-i5
+             Windows Version-22H2
+ 
+Mode of Transfer:Given to user at office
+
+VENDOR :SAHAS
+
+Bios Status:Enable
+
+Bit Locker :D Drive-412093-138237-129294-655424-081873-540683-657250-287771
+
+Prepare By  :Sumesh G
